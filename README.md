@@ -6,7 +6,7 @@ I am an **Aspiring IT Professional** currently building my foundation through th
 *  **Frontend:** HTML5 & CSS3 : **Current Project**: Building a User Profile Page
 
 ### ✅ Completed Projects:
-*  [Dev.to Clone](https://github.com/aremufatiu258/devto-clone)
+*  [Dev.to Clone](https://github.com/aremufatiu258/devto-clone) - [Live site](https://aremufatiu258.github.io/devto-clone/)
 
 ### 📈 My Goals:
 My goal is to master the fundamentals of IT and transition into a professional developer role. I’m documenting every step of my journey here on GitHub.
