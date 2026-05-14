@@ -3,9 +3,10 @@
 I am an **Aspiring IT Professional** currently building my foundation through the Techworld with Nana IT Beginner Course.
 
 ### 🛠️ What I'm Learning Right Now:
-*  **Frontend:** HTML5 & CSS3 : **Current Project**: Building a User Profile Page
+*  **JS Frameworks:** Vue-js : **Current Project**: Building a User Profile Page
 
 ### ✅ Completed Projects:
+*  [user.profile Clone](https://github.com/aremufatiu258/dynamic-user-profile) - [Live site]()
 *  [Dev.to Clone](https://github.com/aremufatiu258/devto-clone) - [Live site](https://aremufatiu258.github.io/devto-clone/)
 
 ### 📈 My Goals:
