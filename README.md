@@ -2,6 +2,8 @@
 
 I am an **Aspiring IT Professional** currently building my foundation through the Techworld with Nana IT Beginner Course.
 
+I'm using this space to track my progress, document my notes, and link to the projects I build along the way.
+
 ### 🛠️ What I'm Learning Right Now:
 *  **JS Frameworks:** Vue-js
 
