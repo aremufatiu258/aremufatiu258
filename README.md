@@ -5,8 +5,7 @@ I am an **Aspiring IT Professional** currently building my foundation through th
 I'm using this space to track my progress, document my notes, and link to the projects I build along the way.
 
 ### 🛠️ What I'm Learning Right Now:
-*  **JS Frameworks:** Vue-js
-
+*  **Testing:** Unit (JEST)
 ### ✅ Completed Projects:
 *  [Dev.to Clone](https://github.com/aremufatiu258/devto-clone) - [Live site](https://aremufatiu258.github.io/devto-clone/)
 *  [user.profile Clone](https://github.com/aremufatiu258/dynamic-user-profile) - [Live site]( https://aremufatiu258.github.io/dynamic-user-profile/)
