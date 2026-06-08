@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aremu Fatiu
 
-I am an **Aspiring IT Professional** currently building my foundation through the Techworld with Nana IT Beginner Course.
+I am an **IT Professional** and I built my foundation with the Techworld with Nana IT Beginner Course.
 
 I'm using this space to track my progress, document my notes, and link to the projects I build along the way.
 
 ### 🛠️ What I'm Learning Right Now:
-*  **Testing:** Unit (JEST)
+*  **Testing:** Integration (supertest)
 ### ✅ Completed Projects:
 *  [Dev.to Clone](https://github.com/aremufatiu258/devto-clone) - [Live site](https://aremufatiu258.github.io/devto-clone/)
 *  [user.profile Clone](https://github.com/aremufatiu258/dynamic-user-profile) - [Live site]( https://aremufatiu258.github.io/dynamic-user-profile/)
